@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "动态中心",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-back-top": "/node-modules/uview-ui/components/u-back-top/u-back-top"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "html-parse": "/subpages/components/html-parse/parse",
+    "pic-blur": "/subpages/components/pic-blur/pic-blur",
+    "comment": "/subpages/components/comment/comment"
+  }
+}

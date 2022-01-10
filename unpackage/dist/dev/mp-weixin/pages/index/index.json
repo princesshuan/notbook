@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "index-sts-waterfall-left": "/pages/index/index-sts-waterfall-left",
+    "index-sts-waterfall-right": "/pages/index/index-sts-waterfall-right",
+    "u-back-top": "/node-modules/uview-ui/components/u-back-top/u-back-top",
+    "login": "/components/login/login",
+    "sts-waterfall": "/components/sts-waterfall"
+  }
+}
